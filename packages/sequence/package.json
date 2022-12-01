@@ -1,6 +1,6 @@
 {
-  "name": "@web3-onboard/sequence",
-  "version": "2.0.4-alpha.1",
+  "name": "@0xsequence/web3-onboard-plugin",
+  "version": "2.0.5",
   "description": "Sequence is the smartest Web3 wallet. Easy, fun and secure.",
   "keywords": [
     "Ethereum",
@@ -53,11 +53,11 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "0xsequence": "^0.43.1",
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "@web3-onboard/common": "^2.2.3",
-    "0xsequence": "^0.43.1"
+    "@web3-onboard/common": "^2.2.3"
   },
   "peerDependencies": {
     "0xsequence": ">=0.43.0",
